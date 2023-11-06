@@ -1,4 +1,4 @@
-# Legal-Data-Assistive-Tool-Using-Deep-Learning
+# Legal Case Summarizer
 Generate concise &amp; accurate summaries of legal documents through abstractive summarization. Empowering legal professionals with quick insights.
 
 # Features
