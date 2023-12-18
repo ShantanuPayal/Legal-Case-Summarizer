@@ -4,7 +4,7 @@ Empower legal professionals with quick insights by generating concise and accura
 
 
 
-![Home Page](homepage.png)
+![Home Page](home_page.png)
 ## Features
 
 - Utilizes state-of-the-art pretrained models (Legal Pegasus, Legal LED, DistilBART) for effective text processing.
