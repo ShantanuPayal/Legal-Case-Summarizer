@@ -1,8 +1,10 @@
 # Legal-Case-Summarizer
 
-
 Empower legal professionals with quick insights by generating concise and accurate summaries of legal documents through abstractive summarization. Our tool leverages state-of-the-art pretrained models, including Legal Pegasus, Legal LED, and DistilBART, to ensure effective text processing and optimization of summarization performance.
 
+
+
+![Home Page](home_page.png)
 ## Features
 
 - Utilizes state-of-the-art pretrained models (Legal Pegasus, Legal LED, DistilBART) for effective text processing.
@@ -10,11 +12,8 @@ Empower legal professionals with quick insights by generating concise and accura
 - Evaluation metrics (BLEU, Precision, Recall, F1 Score, ROUGE) ensure summary quality.
 - Enables legal professionals to make well-informed decisions efficiently.
 
-## How to Use
 
-1. Clone the repository to your local machine.
-2. Install the required dependencies/libraries.
-3. Follow the instructions provided in the project's documentation to run the tool.
+![Generate Summary](generate_summary.png)
 
 ## Pretrained Models
 
